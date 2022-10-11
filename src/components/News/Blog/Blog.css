@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Blog {
+    display: flex;
+    justify-content: space-between;
+    background-image: url(http://demo.dawnthemes.com/ticketbox/wp-content/uploads/2016/12/ticketbox.jpg);
+    padding: 130px;
+    /* background-position: none; */
+    background-size: cover;
+    color:#fff;
+    text-transform: uppercase;
+}
+
+

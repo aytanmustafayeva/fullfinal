@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.about-footerdetails {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.allAbout {
+    padding: 100px;
+    margin: 70px 50px 70px 70px; 
+    background-color: #ffff; 
+    align-items:center;
+    border-radius: 50px;
+    
+}
+.allAbout img {
+    background-color: black;
+}

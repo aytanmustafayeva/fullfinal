@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cardDetail {
+    justify-content: center;
+    margin-left: 70px;
+    margin-right: 70px; 
+    background-color: #ffff;
+    padding: 100px 150px;
+}
+
+.cardDetail-general {
+    display: flex;
+}
+
+.cardDetail-general p {
+    padding-left: 12px;
+
+}
+
+.cardDetail-title {
+    padding: 20px;
+}
+
+
+
+
+
+
+.socialmedia {
+    display: flex;
+    align-items: center;
+    /* float: right; */
+    margin-left: 780px; 
+    margin-top: 50px;
+}
+
+.socialmedia p {
+   padding: 15px;
+   align-items: center;
+
+}
+
+
+.socialmedia a {
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-right: 10px;
+    /* color: #FFFFFF; */
+    cursor: pointer;
+}
+
+.socialmedia a:hover{
+    color:#6C9BFF;
+}
+
+.previousNext {
+    display: flex;
+ }
+
+.previousPost-btn {
+    transition: 0.5s;
+    border: none;
+    background-color: #f2f2f2;
+    padding: 50px;
+    /* float: left; */
+    margin: 40px 10px 60px 0px;
+
+}
+
+.previousPost-btn:hover {
+    background-color:#00d084;
+    color: #ffff;
+
+}
+
+
+
+    .nextPost-btn {
+        transition: 0.5s;
+        border: none;
+        background-color: #f2f2f2;
+        padding: 50px;
+        /* float: right; */
+        /* display: flex; */
+        margin: 40px 10px 60px 0px;
+
+    }
+    
+    .nextPost-btn:hover {
+        background-color:#00d084;
+        color: #ffff;
+    
+    }
+
+    .general-comments {
+      margin-left: 0px;
+      justify-content: space-between;
+     }
+
+
+     .comment-form label{
+        display: block;
+     }
+
+     .name-form label{
+        display: block;
+     }
+     .email-form label{
+        display: block;
+     }
+     .website-form label{
+        display: block;
+     }
+
+     
+    .comments {
+        width: 750px;
+        height: 120px;
+        
+    }
+
+    .name, .email, .website {
+        width: 750px;
+
+    }
+
+    .btn-comment {
+        padding: 10px 18px;
+        border: none;
+        background-color:#6fbe4a;
+        color: #ffff;
+        cursor: pointer;
+    }
+
+   
+
+  

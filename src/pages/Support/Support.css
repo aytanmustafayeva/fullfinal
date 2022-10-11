@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.supportfooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.general-ticketbox {
+    padding: 80px;
+    margin: 70px 50px 70px 70px; 
+    background-color: #ffff; 
+    align-items:center;
+}

@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.gapef {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} 
+.ape {
+    padding: 50px ;
+    margin-left: 70px; 
+    background-color: #ffff; 
+    display: flex;
+    justify-content: space-between;
+    border-radius: 25px;
+}
+ .address {
+    width: 300px;
+}
+
+.phone {
+    width: 300px;
+    
+}
+ .email {
+    width: 300px;
+    
+}
+
+.contacts {
+    margin: 100px 70px 0px 70px;
+    text-align: left;
+}

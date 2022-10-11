@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: left;
+}
+.header {
+    margin: 100px 70px 50px 70px;
+}
+.gtermsfoot {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.gterms {
+    padding: 80px;
+    margin-left: 70px; 
+    background-color: #ffff; 
+    align-items:center;
+    border-radius: 50px;
+    
+}

@@ -1,0 +1,29 @@
+.events-bottom {
+    display: flex;
+    margin: 60px 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.events-bottom p {
+    font-size: 18px;
+    font-weight: 700;
+    color: rgb(161, 168, 161);
+    margin-right: 25px;
+}
+
+.events-bottom button {
+    border: none;
+    border-radius: 5px;
+    padding: 15px 25px;
+    background-color: #026670;
+    color: white;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.events-bottom button:hover {
+    background-color: rgb(84, 207, 84);
+    cursor: pointer;
+    transition: all .1s ease-in-out
+}
